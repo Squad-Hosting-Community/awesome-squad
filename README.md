@@ -41,6 +41,7 @@ A curated list of awesome Squad libraries, resources, and shiny things. Inspired
 * [SquadServerLogExt](https://github.com/Moosieus/SquadServerLogExt). Python script that parses the Squad server log file to put the Timestamps, player count, tick rate and current map(-layer) into a well formatted spreadsheet.
 
 ## Other ##
+* [squad-maps](https://github.com/Thomas-Smyth/squad-maps). JSON formatted list of Squad Maps / Layers and related data for use in development.
 
 ## License
 
